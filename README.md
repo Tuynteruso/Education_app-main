@@ -13,7 +13,7 @@ A mobile cross platform app create with React-Native
 Clone the project
 
 ```bash
-  git clone https://github.com/truongtanthanh1202/Education_app.git
+  git clone https://github.com/Tuynteruso/Education_app-main.git
 ```
 
 Go to the project directory
